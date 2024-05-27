@@ -2,4 +2,4 @@
 
 ## RO050's full robot code
 
-This is what our team worked together for an entire FTC Season. The entire code is written in Java and using some specific libraries.
+This is what our team worked together for an entire FTC Season. The entire code is written in Java and is using some specific libraries.
