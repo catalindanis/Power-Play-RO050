@@ -2,4 +2,5 @@
 
 ## RO050's full robot code
 
-This is what our team worked together for an entire FTC Season. The entire code is written in Java and is using some specific libraries.
+This is the last version of the software department work in the PowerPlay FTC season.
+Important technologies used: EasyOpenCV, Roadrunner, Tensorflow.
